@@ -22,7 +22,12 @@ step 4: use cammand:-
 step 5: index, css and js file is pushed on the github
 
 ![image](https://github.com/jaswinder90541106196/mtm6302-console-controller-jaswinder/assets/133888765/f4a72231-0559-42cd-9eb2-acf927d0f07f)
+
 step 6: have done changes in the text and added some css code 
 ![image](https://github.com/jaswinder90541106196/mtm6302-console-controller-jaswinder/assets/133888765/b371e73a-55d0-4020-96bf-3789b598d3be)
+
+step 7: the picture below show the output of the code
+![image](https://github.com/jaswinder90541106196/mtm6302-console-controller-jaswinder/assets/133888765/6d41428f-72ca-4187-90ea-8387897b705c)
+
 
 
