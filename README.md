@@ -18,3 +18,8 @@ step 4: use cammand:-
 3.git push origin main
 
 ![Screenshot 2024-05-31 170821](https://github.com/jaswinder90541106196/mtm6302-console-controller-jaswinder/assets/133888765/666b59c1-7987-4d88-b12e-e3147934a7bc)
+
+step 5: index, css and js file is pushed on the github
+
+![image](https://github.com/jaswinder90541106196/mtm6302-console-controller-jaswinder/assets/133888765/f4a72231-0559-42cd-9eb2-acf927d0f07f)
+
